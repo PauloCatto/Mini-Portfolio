@@ -22,6 +22,8 @@
 
 Meu primeiro projeto criado junto a imersão da Dev em Dobro.
 
+Link do projeto: https://paulocatto.github.io/Mini-Portfolio/
+
 
 # Tecnologias
 
